@@ -1,0 +1,1 @@
+Here is the link to the dataset I used: https://www.kaggle.com/snathjr/kindle-books-dataset. You will need a Kaggle account, and you will need to download the dataset.
